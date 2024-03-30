@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="vehicles">
+        <item>Sedan</item>
+        <item>SUV</item>
+        <item>Bike</item>
+        <item>Scooter</item>
+    </string-array>
+</resources>
